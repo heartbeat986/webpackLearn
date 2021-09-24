@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "jx";
+  src: url("./HOT-Ninja\ Std\ R.otf");
+}
+
+body {
+  color: red;
+}
+.hello {
+  height: 30px;
+  width: 30px;
+  background-image: url("./reuse.png");
+  background-size: 100% 100%;
+  color: blue;
+}
+.font {
+  font-family: "jx";
+}
